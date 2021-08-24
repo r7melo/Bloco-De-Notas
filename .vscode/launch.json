@@ -6,12 +6,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Bloco De Notas",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "BlocoDeNotas_1e2547e4",
-            "vmArgs": "--module-path C:/Java/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml"
-
+            "projectName": "Bloco De Notas_ada95844",
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml"
         }
     ]
 }
