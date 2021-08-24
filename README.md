@@ -7,3 +7,10 @@
 	- link para download : https://gluonhq.com/products/javafx/
 	- Verificar se o caminho está correto no arquivo .vscode > launch.json:
 		"vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml"
+		OBS: Quando o projeto e executado pela primeira vez, uma nova configuração em .vscode > launch.json 
+		é adicionada, entao adicionar essa linha na ultima configuração.
+		
+## Extenções utilizadas:
+	- vscjava.vscode-java-pack
+	- youmaycallmev.vscode-java-saber
+	- shrey150.javafx-support
