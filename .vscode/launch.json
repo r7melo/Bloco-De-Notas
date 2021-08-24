@@ -1,0 +1,17 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "BlocoDeNotas_1e2547e4",
+            "vmArgs": "--module-path C:/Java/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml"
+
+        }
+    ]
+}
